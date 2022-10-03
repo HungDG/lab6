@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabSix</string>
+    <string-array name="layout_name_string">
+        <item>LinearLayoutV</item>
+        <item>LinearLayoutH</item>
+        <item>RelativeLayout</item>
+    </string-array>
+</resources>
